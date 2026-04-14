@@ -64,8 +64,11 @@ Interactive UMAP visualization of book embeddings:
 - Clusters = semantic topics  
 - Cluster `-1` = noise (hidden by default)
 
-Open interactive version:  
+Interactive HTML example:
 - [examples/umap_example.html](examples/umap_example.html)
+
+GitHub may not preview large HTML files directly.  
+Download the file and open it locally in a browser.
 
 ---
 
